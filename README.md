@@ -56,3 +56,4 @@ While we've got advice about running an open source project, we're not lawyers. 
 [29]:https://github.com/sophshep
 [30]:https://github.com/jeejkang
 [31]:https://github.com/Nike
+    [32]:github.(com/octokit/go-sdk/pkg/github/models
